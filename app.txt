@@ -1,1 +1,3 @@
-﻿Pilihan Saya: Warna tombol harus MERAH
+Fitur Login Selesai
+Update terbaru dari GitHub oleh Teman Tim!
+Keputusan Bersama: Tombol warna UNGU!
